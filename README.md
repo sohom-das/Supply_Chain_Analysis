@@ -75,7 +75,3 @@ To run the analysis locally, follow these steps:
 2. Install the required Python packages: `pip install pandas plotly`
 3. Navigate to the project directory: `cd supply-chain-analysis`
 4. Open the Jupyter Notebook: `jupyter notebook Supply_Chain_Analysis.ipynb`
-
-## Licence
-
-This project is licensed under the [MIT Licence](LICENSE).
